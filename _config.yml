@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shiqi (Shee-chee) Yu"
+title                    : "Shiqi (Shee-chee) YU"
 title_separator          : "-"
 name                     : &name "Shiqi YU"
 description              : &description "PhD Student Specilizing HCI and XR"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Shiqi YU"
   pronouns         : "she/her"  
-  bio              : "PhD Student Specilizing HCI and XR"
+  bio              : "PhD Student in Interdisciplinary Design and Media, specializing in HCI and XR"
   location         : "Boston, USA"
   employer         : "Northeastern University"
   uri              : # URL
