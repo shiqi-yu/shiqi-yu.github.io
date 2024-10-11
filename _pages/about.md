@@ -23,8 +23,6 @@ Research interests:
 Getting started
 ======
 
-Before settling in Boston, Shiqi Yu spent wondeful three years in the UK, working as a Research Fellow at [Cranfield University](https://www.cranfield.ac.uk/) on XR research for the DEBUT WM project and as an XR Software Developer at the [University of Greenwich](https://www.gre.ac.uk/), where she led the development of an XR security testbed. She holds an M.S. in <em>Design Informatics</em> from the [University of Edinburgh](https://www.ed.ac.uk/)</, supervised by [Dr. Benjamin Bach](https://vishub.net/bach.html), with a thesis on 3D medical data visualization using HoloLens. Her expertise includes XR, HCI, data visualization, and cybersecurity.
-
 A passionate traveler, Shiqi has explored the US, UK, Spain, Germany, Iceland, and Singapore, and dreams of exploring more—and having her own dogs one day.
 
 Site-wide configuration
