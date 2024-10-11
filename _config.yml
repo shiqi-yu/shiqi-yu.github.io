@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "iceland_profile.jpg"
-  name             : "<em>Iceland, July 2024</em> credits to [my partner](https://gaoweihe.github.io/)"
+  name             : <em>Iceland, July 2024</em> credits to [my partner](https://gaoweihe.github.io/)
   pronouns         : "she/her"  
   bio              : "PhD Student in Interdisciplinary Design and Media, specializing in HCI and XR"
   location         : "Boston, USA"
