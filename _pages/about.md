@@ -11,9 +11,13 @@ Shiqi Yu is a PhD student in <em>Interdisciplinary Design and Media</em> at Nort
 Research interests:
 ======
 <ul>
-  <li>First bullet point</li>
-  <li>Second bullet point</li>
-  <li>Third bullet point</li>
+  <li>XR for Situated Analytics and Collaborative Environments</li>
+  <li>Immersive Visualization in AR, VR, and MR</li>
+  <li>Real-time and Predictive Data Analytics in XR</li>
+  <li>HCI in Immersive Spaces</li>
+  <li>Interactive Art and Design in XR</li>
+  <li>Cybersecurity and Privacy in XR Systems</li>
+  <li>XR Integration with Robotics and IoT</li>
 </ul>
 
 Getting started
