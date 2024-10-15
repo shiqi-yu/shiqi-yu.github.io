@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shiqi (Shee-chee) YU"
+title                    : "YU, Shiqi (Shee-chee)"
 title_separator          : "-"
 name                     : &name "Shiqi YU"
 description              : &description "PhD Student Specilizing HCI and XR"
@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "iceland_profile.jpg"
-  name             : <em>Iceland, July 2024 credits to <a>my partner</a></em>
+  avatar           : "profile.jpg"
+  name             :  "YU, Shiqi"
   pronouns         : "she/her"  
   bio              : "PhD Student in Interdisciplinary Design and Media, specializing in HCI and XR"
   location         : "Boston, USA"
