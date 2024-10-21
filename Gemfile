@@ -9,4 +9,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jemoji'
   gem 'webrick', '~> 1.8' # Required for local Jekyll server on newer Ruby versions
+  gem 'public_suffix', '~> 6.0'
 end
