@@ -1,45 +1,70 @@
-- name: Project One # Project name, also used as heading
+- name: An Immersive 3D Visualization of Medical Data in HoloViz Office​ (2022) # Project name, also used as heading
   id: p1 # Project id, must be unique amongst the projects
-  img_src: /assets/img/connectpie-page.png # Optional image
-  description_less: This part of the project description is visible at all times. # Description shown at all times, text only
-  description_more: > # Description shown only when the project card is expanded, HTML only
-    <p>This part is only seen when you click on the project card.</p> 
-  action_buttons: > # Action buttons for project, HTML only
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [tag1, tag2] # A list of tags
-
-- name: Pudina Fresh Jekyll Theme
-  id: pf
-  img_src: 
-  description_less: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
-  description_more: >
-    <p>This site uses Pudhina Fresh theme.</p>
+  img_src: /assets/img/pj1.png # Optional image
+  description_less: > # Description shown at all times
+    <p>Demonstration of the functionality of the interactive workspace by displaying medical 3D data in the HoloViz Office.</p> 
+  description_more: > # Description shown only when the project card is expanded
+    <p> HoloViz Office: A location-independent hybrid workspace for immersive 3D visualization using mixed reality​.</p> 
   action_buttons: >
-    <a href="https://github.com/ritijjain/pudhina-fresh" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="https://ritijjain.com/2020/09/12/pudhina-fresh.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [jekyll, open-source]
+    <a href="https://youtu.be/2s6ayGhw_6Y" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
+  tags: [Mixed Reality, HoloLens, Data Visualization, Unity3D] # A list of tags
 
-- name: Project Two
+- name: FALLING MANNA (2022) # Project name, also used as heading
+  id: p6 # Project id, must be unique amongst the projects
+  img_src: /assets/img/pj2.png # Optional image
+  description_less: > # Description shown at all times
+    <p>An immersive VR application to enhance dietary self-tracking and engage users with Scottish food culture</p> 
+  description_more: > # Description shown only when the project card is expanded
+  action_buttons: >
+    <a href="https://youtu.be/4S18WxpgaXs" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
+  tags: [Virtual Reality, Oculus, Unity3D] # A list of tags
+
+- name: Health Service Application (2022)
   id: p2
-  img_src: 
-  description_less: Refer to docs to learn how to add your own projects.
+  img_src: /assets/img/p2.png
+  description_less: > # Description shown at all times
+    <p>Designing and prototyping a model application that concerns Student Health Services Data Management in Edinburgh.</p> 
   description_more: >
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
   action_buttons: >
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [tag3, docs]
-
-- name: Project Three
+    <a href="https://youtu.be/uBCfgiwZvh0" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
+  tags: [HCI]
+  
+- name: Text-based Dynamic Video Generation for Virtual Reality Scenes(2022)
+  id: p5
+  img_src:  /assets/img/pj5.png
+  description_less: > # Description shown at all times
+    <p>VR scene generation</p> 
+  description_more: >
+  action_buttons: >
+  tags: [Machine Learning, TensorFlow ]
+  
+- name: PATTERNMAP (2021)
   id: p3
-  img_src: /assets/img/weatherpie-page.png
-  description_less: Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam.
+  img_src: /assets/img/pj3.png
+  description_less: > # Description shown at all times
+    <p>A website designed as a colorblind-friendly map using Google Earth Engine and EarthBlox to visualize data, specifically aimed at those with red-green colour blindness. </p> 
   description_more: >
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
   action_buttons: >
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [tag2, tag4]
+    <a href="https://youtu.be/oJbKyuacqOI" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
+  tags: [HCI, Data Visualization]
+
+- name: Scene Generation Algorithm Implementation with Unity3D (2021)
+  id: p4
+  img_src: /assets/img/pj4.png
+  description_less: > # Description shown at all times
+    <p>A Unity 3D maze game that generates paths automatically. </p> 
+  description_more: >
+  action_buttons: >
+    <a href="https://youtu.be/WhstpQVYe-U" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
+  tags: [Unity3D, Game]
+
+- name: Dream Controller (2021)
+  id: p7
+  img_src: /assets/img/pj6.png
+  description_less: > # Description shown at all times
+    <p>Dream Controller is a conceptual lightweight eye mask designed for post-traumatic stress disorder (PTSD) patients. It ultilizes the virtual reality technology to create calming environments and soothing sounds to improve sleep quality. </p> 
+  description_more: >
+  action_buttons: >
+    <a href="https://youtu.be/WUcsdWot8x4" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
+  tags: [HCI]
+  
