@@ -2,7 +2,7 @@ title: Yu, Shiqi (Shee-chee) # Shown in header on pages with full_logo: true
 short_logo: Yu, Shiqi (Shee-chee) # Shown in header on all pages by default unless full_logo: true is set
 description: > # The description for your site
   A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
-url: "https://www.shiqi-yu.github.io/" # Site base URL
+url: "https://shiqi-yu.github.io/" # Site base URL
 
 author:
   name: yu-shiqi
