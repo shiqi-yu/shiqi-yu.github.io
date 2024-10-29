@@ -116,10 +116,10 @@ sitemap:
         <ul class="info-icons">
             <li><span>📍 Boston, USA</span></li>
             <li><span>🏫 Northeastern University</span></li>
-            <li><span>✉️ Email</span></li>
-            <li><span>🐙 <a href="https://github.com/yourgithubprofile" target="_blank">Github</a></span></li>
-            <li><span>🔗 LinkedIn</span></li>
-            <li><span>✖️ X (formerly Twitter)</span></li>
+            <li><span>✉️ <a href="mailto:shiqiyu1412@gmail.com">Email</a></span></li>
+            <li><span>🐙 <a href="https://github.com/shiqi-yu" target="_blank">Github</a></span></li>
+            <li><span>🔗 <a href="https://linkedin.com/in/shiqiyu1412" target="_blank">LinkedIn</a></span></li>
+            <li><span>✖️ <a href="https://twitter.com/Shiqi_Yu1412" target="_blank">X (formerly Twitter)</a></span></li>
         </ul>
     </div>
     </div>
@@ -137,6 +137,10 @@ sitemap:
 </ul>
 
 <p>Before settling in Boston, Shiqi Yu spent wonderful three years in the UK, working as a Research Fellow at <a href="https://www.cranfield.ac.uk/" target="_blank">Cranfield University</a> on XR research for the DEBUT WM project and as an XR Software Developer at the <a href="https://www.gre.ac.uk/" target="_blank">University of Greenwich</a>, where she led the development of an XR security testbed. She holds an M.S. in <em>Design Informatics</em> from the <a href="https://www.ed.ac.uk/" target="_blank">University of Edinburgh</a>, supervised by <a href="https://vishub.net/bach.html" target="_blank">Dr. Benjamin Bach</a>, with a thesis on 3D medical data visualization using HoloLens.</p>
+
+<a href="/assets/cv/cv_shiqiyu_20241010.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0066cc; color: #fff; border-radius: 5px; text-decoration: none; font-weight: bold; margin-top: 15px;">
+Download My CV
+</a>
 
 <div class="footer-space">
 </div>
