@@ -110,7 +110,7 @@ sitemap:
  <div class="left-section">
     <img src="/assets/img/profile.jpg" alt="Profile Image" class="profile-image">
     <div class="about-section">
-        <h1>Yu, Shiqi</h1>
+        <h1>Yu, Shiqi (Charlotte)</h1>
         <p>she/her</p>
         <p>PhD Student specializing in HCI and XR</p>
         <ul class="info-icons">
