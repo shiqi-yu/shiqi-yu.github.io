@@ -93,6 +93,12 @@ sitemap:
             color: #333333; /* Set font color to dark gray for a softer look */
             font-size: 1.1em; /* Slightly larger for emphasis */
         }
+        .already-happened {
+      text-decoration: line-through;
+      color: #777; /* Grayish tone */
+      opacity: 0.8; /* Slight fade */
+      font-style: normal; /* Keep the text straightforward */
+        }
         /* Responsive Design for Smaller Screens */
         @media (max-width: 768px) {
             .container {
@@ -102,8 +108,11 @@ sitemap:
                 width: 100%;
                 max-width: 100%;
             }
+
+        
     </style>
 </head>
+
 <body>
 
 <div class="profile-container">
@@ -127,7 +136,7 @@ sitemap:
 
 <div class="right-section">
 <h2>About ME</h2>
-<p>Shiqi is a first-year PhD student in <em>Interdisciplinary Design and Media</em> at <a href="https://www.northeastern.edu" target="_blank">Northeastern University</a>, advised by <a href="https://www.wallacelages.com/about.html" target="_blank">Dr. Wallace Lages</a> from the <a href="http://www.realitydesign.studio/" target="_blank">Reality Design Studio</a>. She is a researcher and developer passionate about Extended Reality (XR) and human-computer interaction, with a growing focus on healthcare applications. Shiqi’s research aims to advance XR technologies by designing innovative interfaces and systems that enhance human experiences and improve real-world outcomes.
+<p>Shiqi is a first-year PhD student in <em>Interdisciplinary Design and Media</em> at <a href="https://www.northeastern.edu" target="_blank">Northeastern University</a>, <span class="already-happened"> advised by <a href="https://www.wallacelages.com/about.html" target="_blank">Dr. Wallace Lages</a> from the <a href="http://www.realitydesign.studio/" target="_blank">Reality Design Studio</a></span>. She is a researcher and developer passionate about Extended Reality (XR) and human-computer interaction, with a growing focus on healthcare applications. Shiqi’s research aims to advance XR technologies by designing innovative interfaces and systems that enhance human experiences and improve real-world outcomes.
 She explores the integration of virtual and augmented reality with emerging technologies like robotics and IoT, emphasizing their potential in healthcare and other impactful domains. Her work bridges the virtual and physical worlds, striving to develop intuitive, immersive, and meaningful solutions for users in both professional and personal contexts.
 </p>
 
