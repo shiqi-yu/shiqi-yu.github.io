@@ -1,10 +1,10 @@
 - name: "Non‑Occlusive Augmented Reality with Physiological Biofeedback to Enhance Exercise Adherence and Pain Management in Older Adults with Knee Osteoarthritis (2025)" # Project name, also used as heading
   id: p9 # Project id, must be unique amongst the projects
-  img_src:  # Optional image
+  img_src: /assets/img/pj9.png # Optional image
   description_less: > # Description shown at all times
     <p> Knee-XR: Empowering Older Adults Through Safe, Personalized AR Rehabilitation.</p> 
   description_more: > # Description shown only when the project card is expanded
-    <p> Research Proposal Video</p> 
+    <p> This research proposal video presents the design and evaluation plan for Knee-XR, a personalized AR rehabilitation system integrating real-time visual feedback and physiological biofeedback </p> 
   action_buttons: >
     <a href="https://youtu.be/zxFNRevgfjI?si=LKAjb3j0F0tzob9I" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-link"></i> &nbsp View Project</a>
   tags: [Augumented Reality, Healthcare] # A list of tags
