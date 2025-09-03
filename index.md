@@ -136,7 +136,7 @@ sitemap:
 
 <div class="right-section">
 <h2>About ME</h2>
-<p>Shiqi is a first-year PhD student in <em>Interdisciplinary Design and Media</em> at <a href="https://www.northeastern.edu" target="_blank">Northeastern University</a>. She is a researcher and developer passionate about Extended Reality (XR) and human-computer interaction, with a growing focus on healthcare applications. Shiqi’s research aims to advance XR technologies by designing innovative interfaces and systems that enhance human experiences and improve real-world outcomes.
+<p>Shiqi is a second-year PhD student in <em>Interdisciplinary Design and Media</em> at <a href="https://www.northeastern.edu" target="_blank">Northeastern University</a>. She is a researcher and developer passionate about Extended Reality (XR) and human-computer interaction, with a growing focus on healthcare applications. Shiqi’s research aims to advance XR technologies by designing innovative interfaces and systems that enhance human experiences and improve real-world outcomes.
 She explores the integration of virtual and augmented reality with emerging technologies like robotics and IoT, emphasizing their potential in healthcare and other impactful domains. Her work bridges the virtual and physical worlds, striving to develop intuitive, immersive, and meaningful solutions for users in both professional and personal contexts.
 </p>
 
@@ -149,7 +149,7 @@ She explores the integration of virtual and augmented reality with emerging tech
 
 <p>Before settling in Boston, Shiqi Yu spent wonderful three years in the UK, working as a Research Fellow at <a href="https://www.cranfield.ac.uk/" target="_blank">Cranfield University</a> on XR research for the DEBUT WM project and as an XR Software Developer at the <a href="https://www.gre.ac.uk/" target="_blank">University of Greenwich</a>, where she led the development of an XR security testbed. She holds an M.S. in <em>Design Informatics</em> from the <a href="https://www.ed.ac.uk/" target="_blank">University of Edinburgh</a>, supervised by <a href="https://groups.inf.ed.ac.uk/vishub/bbach/index-homepage.html" target="_blank">Dr. Benjamin Bach</a>, with a thesis on 3D medical data visualization using HoloLens.</p>
 
-<a href="/assets/cv/cv_shiqiyu_20250420.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0066cc; color: #fff; border-radius: 5px; text-decoration: none; font-weight: bold; margin-top: 15px;">
+<a href="/assets/cv/cv_shiqiyu_20250903.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0066cc; color: #fff; border-radius: 5px; text-decoration: none; font-weight: bold; margin-top: 15px;">
 Download My CV
 </a>
 
