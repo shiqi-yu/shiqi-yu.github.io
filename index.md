@@ -149,7 +149,7 @@ She explores the integration of virtual and augmented reality with emerging tech
 
 <p>Before settling in Boston, Shiqi Yu spent wonderful three years in the UK, working as a Research Fellow at <a href="https://www.cranfield.ac.uk/" target="_blank">Cranfield University</a> on XR research for the DEBUT WM project and as an XR Software Developer at the <a href="https://www.gre.ac.uk/" target="_blank">University of Greenwich</a>, where she led the development of an XR security testbed. She holds an M.S. in <em>Design Informatics</em> from the <a href="https://www.ed.ac.uk/" target="_blank">University of Edinburgh</a>, supervised by <a href="https://groups.inf.ed.ac.uk/vishub/bbach/index-homepage.html" target="_blank">Dr. Benjamin Bach</a>, with a thesis on 3D medical data visualization using HoloLens.</p>
 
-<a href="/assets/cv/cv_shiqiyu_20250903.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0066cc; color: #fff; border-radius: 5px; text-decoration: none; font-weight: bold; margin-top: 15px;">
+<a href="/assets/cv/cv_shiqiyu_20250914.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0066cc; color: #fff; border-radius: 5px; text-decoration: none; font-weight: bold; margin-top: 15px;">
 Download My CV
 </a>
 
