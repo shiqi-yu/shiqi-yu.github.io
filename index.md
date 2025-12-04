@@ -121,10 +121,10 @@ sitemap:
     <div class="about-section">
         <h1>Yu, Shiqi (Charlotte)</h1>
         <p>she/her</p>
-        <p>PhD Student specializing in HCI and XR</p>
+        <p>XR Researcher</p>
         <ul class="info-icons">
-            <li><span>📍 Boston, USA</span></li>
-            <li><span>🏫 Northeastern University</span></li>
+            <!--<li><span>📍 Boston, USA</span></li>
+            <li><span>🏫 Northeastern University</span></li>-->
             <li><span>✉️ <a href="mailto:shiqiyu1412@gmail.com">Email</a></span></li>
             <li><span>🐙 <a href="https://github.com/shiqi-yu" target="_blank">Github</a></span></li>
             <li><span>🔗 <a href="https://linkedin.com/in/shiqiyu1412" target="_blank">LinkedIn</a></span></li>
@@ -136,20 +136,15 @@ sitemap:
 
 <div class="right-section">
 <h2>About ME</h2>
-<p>Shiqi is a second-year PhD student in <em>Interdisciplinary Design and Media</em> at <a href="https://www.northeastern.edu" target="_blank">Northeastern University</a>. She is a researcher and developer passionate about Extended Reality (XR) and human-computer interaction, with a growing focus on healthcare applications. Shiqi’s research aims to advance XR technologies by designing innovative interfaces and systems that enhance human experiences and improve real-world outcomes.
-She explores the integration of virtual and augmented reality with emerging technologies like robotics and IoT, emphasizing their potential in healthcare and other impactful domains. Her work bridges the virtual and physical worlds, striving to develop intuitive, immersive, and meaningful solutions for users in both professional and personal contexts.
+<p>Shiqi is a researcher working at the intersection of Extended Reality (XR) and Human-Computer Interaction (HCI). She develops immersive systems and interfaces using AR/VR/MR technologies, with experience spanning medical visualization, security research, educational applications, and manufacturing training. Her technical expertise includes Unity3D development, mixed reality platforms (HoloLens, Magic Leap, Oculus), and user-centered design methodologies.
+
+Shiqi has contributed to multiple international research projects, including EU-funded XR security initiatives and UK manufacturing innovation programs. Her work has been presented at international conferences and she actively publishes in the XR/HCI research community.
 </p>
 
-<h2>Research Interests:</h2>
-<ul>
-    <li><b>XR Interaction & Interface Design:</b> Development of novel, user-centered, and natural interaction techniques and interfaces for immersive XR experiences.</li>
-    <li><b>XR Systems & Development:</b>  Integration of XR technologies with IoT and robotics through robust system architectures and multi-modal designs, with a focus on healthcare systems.</li>
-    <li><b>XR Applications in Healthcare and Beyond:</b> Implementation of XR solutions to address challenges in healthcare, scientific visualization, and education, enhancing user experiences and outcomes in these critical domains.</li>
-</ul>
+<h2>Background</h2>
+<p>Shiqi holds an M.S. in <em>Design Informatics</em> from the <a href="https://www.ed.ac.uk/" target="_blank">University of Edinburgh</a> and a B.Eng. in <em>Digital Media Technology</em> from <a href="https://english.blcu.edu.cn/" target="_blank">Beijing Language and Culture University</a>. She has held research positions at <a href="https://www.cranfield.ac.uk/" target="_blank">Cranfield University</a> as a Research Fellow and at the <a href="https://www.gre.ac.uk/" target="_blank">University of Greenwich</a> as an XR Software Developer. Her experience also includes teaching undergraduate courses at <a href="https://www.northeastern.edu/" target="_blank">Northeastern University</a>, where she bridged technical XR concepts with communication studies for over 120 students. <em>She is currently exploring research opportunities to continue her work in XR and HCI. </em> </p>
 
-<p>Before settling in Boston, Shiqi Yu spent wonderful three years in the UK, working as a Research Fellow at <a href="https://www.cranfield.ac.uk/" target="_blank">Cranfield University</a> on XR research for the DEBUT WM project and as an XR Software Developer at the <a href="https://www.gre.ac.uk/" target="_blank">University of Greenwich</a>, where she led the development of an XR security testbed. She holds an M.S. in <em>Design Informatics</em> from the <a href="https://www.ed.ac.uk/" target="_blank">University of Edinburgh</a>, supervised by <a href="https://groups.inf.ed.ac.uk/vishub/bbach/index-homepage.html" target="_blank">Dr. Benjamin Bach</a>, with a thesis on 3D medical data visualization using HoloLens.</p>
-
-<a href="/assets/cv/cv_shiqiyu_20250914.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0066cc; color: #fff; border-radius: 5px; text-decoration: none; font-weight: bold; margin-top: 15px;">
+<a href="/assets/cv/cv_shiqiyu_20251203.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0066cc; color: #fff; border-radius: 5px; text-decoration: none; font-weight: bold; margin-top: 15px;">
 Download My CV
 </a>
 
