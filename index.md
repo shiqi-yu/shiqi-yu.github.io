@@ -144,7 +144,7 @@ Shiqi has contributed to multiple international research projects, including EU-
 <h2>Background</h2>
 <p>Shiqi holds an M.S. in <em>Design Informatics</em> from the <a href="https://www.ed.ac.uk/" target="_blank">University of Edinburgh</a> and a B.Eng. in <em>Digital Media Technology</em> from <a href="https://english.blcu.edu.cn/" target="_blank">Beijing Language and Culture University</a>. She has held research positions at <a href="https://www.cranfield.ac.uk/" target="_blank">Cranfield University</a> as a Research Fellow and at the <a href="https://www.gre.ac.uk/" target="_blank">University of Greenwich</a> as an XR Software Developer. Her experience also includes teaching undergraduate courses at <a href="https://www.northeastern.edu/" target="_blank">Northeastern University</a>, where she bridged technical XR concepts with communication studies for over 120 students. <em>She is currently exploring research opportunities to continue her work in XR and HCI. </em> </p>
 
-<a href="/assets/cv/cv_shiqiyu_20251203.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0066cc; color: #fff; border-radius: 5px; text-decoration: none; font-weight: bold; margin-top: 15px;">
+<a href="/assets/cv/cv_shiqiyu_20260110.pdf" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #0066cc; color: #fff; border-radius: 5px; text-decoration: none; font-weight: bold; margin-top: 15px;">
 Download My CV
 </a>
 
